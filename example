@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width= device-width," initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="Description" content="Making enterprises sustainable in East Africa"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+ <!-- css -->
+ <link rel="stylesheet" href="assets/css/style.css">
+ <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+ <link href="assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+ <link href="assets/css/style.min.css" rel="stylesheet" type="text/css" />
+
+
+<title>Supporting the growth of Purposeful enterprises</title>
+</head>
+
+<!-- <body data-spy="scroll" data-target="#navbar" data-offset="20">
+   
+    <div id="preloader">
+        <div id="status">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
+    </div> -->
+
+
+<!-- Navbar Light -->
+
+<nav
+  class="navbar navbar-expand-lg navbar-light bg-white z-index-3 py-3" id="navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/" rel="tooltip" title="Think Opal Logo" data-placement="bottom" target="_blank">
+    <img src="./Think_Opal_Logo.png" height="150px" width="120px" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="ThinkOpal Logo" id="Think_Opal_Logo">
+    </a>
+    
+    
+    <button class="navbar-toggler shadow-none ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon mt-2">
+        <span class="navbar-toggler-bar bar1"></span>
+        <span class="navbar-toggler-bar bar2"></span>
+        <span class="navbar-toggler-bar bar3"></span>
+      </span>
+    </button>
+
+    <div class="collapse navbar-collapse w-100 pt-3 pb-2 py-lg-0" id="navigation">
+      <ul class="navbar-nav navbar-nav-hover mx-auto">
+        <li class="nav-item mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button" id="Home">
+          Home 
+          </a>
+        </li>
+
+        <li class="nav-item mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button" id="Ourwhy">
+          Our Why
+            <img src="https://appsrv1-147a1.kxcdn.com/soft-ui-design-pro-flask-v1.0.5/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+          </a>
+        </li>
+        <li class="nav-item mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button" id="TheHow">
+            The How 
+            <img src="https://appsrv1-147a1.kxcdn.com/soft-ui-design-pro-flask-v1.0.5/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+          </a>
+        </li>
+
+        <li class="nav-item mx-2">
+          <a class="nav-link ps-2 d-flex justify-content-between cursor-pointer align-items-center" role="button" id="ImpactSeries">
+            Impact Series
+            <img src="https://appsrv1-147a1.kxcdn.com/soft-ui-design-pro-flask-v1.0.5/img/down-arrow-dark.svg" alt="down-arrow" class="arrow ms-1">
+          </a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav d-lg-block d-none" id="Request">
+        <li class="nav-item" >
+          <a href="#" class="btn btn-sm  bg-gradient-primary  btn-round mb-0 me-1 "  role="button" class="quote">Request a Quote</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- End Navbar -->
+
+
+
+<!-- -------- START HEADER 1 with text and image on right   -->
+<header>
+  <div class="page-header min-vw-100" id="header">
+    <div class="oblique position-absolute top-0 h-100 d-md-block d-none">
+      <img src="/assets/images/sustainability.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" id="sustainability" alt="sustainability">
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 col-md-7 d-flex justify-content-center flex-column">
+         
+          <h1 class="text-gradient text-primary"class="support">We support Purposeful enterprises in Developing , Implementing and communicating Impact.</h1>
+          <p class="lead pe-5 me-5" class ="never">
+            “We plant trees under whose shade we shall never sit” </p>
+          <div class="buttons">
+            <button type="button" class="btn bg-gradient-primary mt-4">Get In Touch</button>
+            <button type="button" class="btn text-primary shadow-none mt-4">Read more</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- END HEADER 1 w/ text and image on right -->
+
+
+<!-- <section class="py-6">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 mx-auto text-center pb-4">
+        <h4 class="text-gradient text-primary">Enablers of Ventures</h4>
+        <h2>We offer consulting in stakeholder management and communications as well as capacity building</h2>
+        <p class="lead">We're constantly concetrating on how social firms may use marketing for social impact to build their brand for long term sustainability. </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 col-md-6">
+        <div class="p-3 text-center">
+          <div class="icon icon-shape bg-gradient-primary shadow mx-auto">
+            <i class="ni ni-single-02"></i>
+          </div>
+          <h5 class="mt-4">Check our team</h5>
+          <p>We get insulted by others, lose trust for those others. We get back here to follow my dreams</p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="p-3 text-center">
+          <div class="icon icon-shape bg-gradient-info shadow mx-auto">
+            <i class="ni ni-email-83"></i>
+          </div>
+          <h5 class="mt-4">Support 24/7</h5>
+          <p>We get insulted by others, lose trust for those others. We get back here to follow my dreams</p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 mx-md-auto">
+        <div class="p-3 text-center">
+          <div class="icon icon-shape bg-gradient-warning shadow mx-auto">
+            <i class="ni ni-atom"></i>
+          </div>
+          <h5 class="mt-4">Unlimited revisions</h5>
+          <p>We get insulted by others, lose trust for those others. We get back here to follow my dreams</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+    <!-- Services start -->
+    <section class="section" id="services">
+      <div class="container">
+          <div class="row justify-content-center mb-5">
+              <div class="col-lg-7 text-center">
+                  <h2 class="fw-bold">Enablers of Ventures</h2>
+                  <p class="text-muted">We offer consulting in stakeholder management and communications as well as capacity building</p>
+                  <p class="lead">We're constantly concetrating on how social firms may use marketing for social impact to build their brand for long term sustainability. </p>
+              </div>
+          </div>
+
+          <div class="row">
+              <div class="col-lg-4">
+                  <div class="service-box text-center px-4 py-5 position-relative mb-4">
+                      <div class="service-box-content p-4">
+                          <div class="icon-mono service-icon avatar-md mx-auto mb-4">
+                              <i class="" data-feather="box"></i>
+                          </div>
+                          <h4 class="mb-3 font-size-22">Digital Design</h4>
+                          <p class="text-muted mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui
+                              blanditiis.</p>
+                      </div>
+                  </div>
+              </div>
+              <!-- end col -->
+
+              <div class="col-lg-4">
+                  <div class="service-box text-center px-4 py-5 position-relative mb-4 active">
+                      <div class="service-box-content p-4">
+                          <div class="icon-mono service-icon avatar-md mx-auto mb-4">
+                              <i class="" data-feather="layers"></i>
+                          </div>
+                          <h4 class="mb-3 font-size-22">Awesome Support</h4>
+                          <p class="text-muted mb-0">Ut m ad minima veniam, quis nostrum exercitationem ullam
+                              corporis suscipit.</p>
+                      </div>
+                  </div>
+              </div>
+              <!-- end col -->
+
+              <div class="col-lg-4">
+                  <div class="service-box text-center px-4 py-5 position-relative mb-4">
+                      <div class="service-box-content p-4">
+                          <div class="icon-mono service-icon avatar-md mx-auto mb-4">
+                              <i class="" data-feather="server"></i>
+                          </div>
+                          <h4 class="mb-3 font-size-22">Easy to customize</h4>
+                          <p class="text-muted mb-0">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                              doloremque.</p>
+                      </div>
+                  </div>
+              </div>
+              <!-- end col -->
+          </div>
+          <!-- end row -->
+      </div>
+      <!-- end container -->
+
+  </section>
+  <!-- Services end -->
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+</body>
+</html>
