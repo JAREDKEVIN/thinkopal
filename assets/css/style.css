@@ -1,7 +1,7 @@
-/* Template Name: Qexal - Responsive Bootstrap 4 Landing Page Template
-   Author: Themesbrand
+/* Template Name: ThinkOpal -Landing Page
+   Author: Blackweb Solutions
    Version: 1.0.0
-   Created: Jan 2019
+   Created: Feb 2023
    File Description: Main Css file of the template
 */
 /**********************
@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-  color: #2753ff;
+  color: #03989E;
 }
 
 body {
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 // 2. Icons
 */
 .icon-fill-primary {
-  fill: #2753ff;
+  fill: #03989E;
 }
 
 .icon-fill-secondary {
@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .nav-btn {
   background-color: #fbfbfb;
-  color: #2753ff;
+  color: #03989E;
 }
 
 .navbar-toggler {
@@ -240,7 +240,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav .open > a:focus,
 .nav .open > a:hover {
   background-color: transparent;
-  border-color: #2753ff;
+  border-color: #03989E;
 }
 
 .menu-toggle {
@@ -268,11 +268,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-sticky.navbar .navbar-nav li .nav-link.active, .nav-sticky.navbar .navbar-nav li .nav-link:hover, .nav-sticky.navbar .navbar-nav li .nav-link:focus {
-  color: #2753ff !important;
+  color: #03989E !important;
 }
 
 .nav-sticky.navbar .nav-btn {
-  background-color: #2753ff;
+  background-color: #03989E;
   color: #fff;
 }
 
@@ -337,7 +337,7 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
   }
   .navbar .navbar-nav li .nav-link.active, .navbar .navbar-nav li .nav-link:hover, .navbar .navbar-nav li .nav-link:focus {
-    color: #2753ff !important;
+    color: #03989E !important;
   }
   .navbar .navbar-nav li.active a {
     border-color: transparent;
@@ -361,6 +361,11 @@ h1, h2, h3, h4, h5, h6 {
   .navbar-collapse {
     padding: 0;
   }
+}
+
+/* Headers */
+h1.font-weight-semibold.mb-4.hero-4-title{
+  color: #ffffff !important;
 }
 
 /* 
@@ -404,15 +409,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn.btn-primary {
-  background-color: #2753ff !important;
-  border: 1px solid #2753ff !important;
+  background-color: #ffd230 !important;
+  border: 1px solid #03989E !important;
   color: #fff;
   box-shadow: 0 4px 20px rgba(39, 83, 255, 0.15);
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary.focus, .btn.btn-primary:active, .btn.btn-primary.active {
-  background-color: #1847ff !important;
-  border: 1px solid #1847ff !important;
+  background-color: #ffd230 !important;
+  border: 1px solid #03989E !important;
   box-shadow: 0 3px 10px rgba(39, 83, 255, 0.5);
   color: #fff !important;
 }
@@ -423,12 +428,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .btn.btn-soft-primary:hover, .btn.btn-soft-primary:focus, .btn.btn-soft-primary.focus, .btn.btn-soft-primary:active, .btn.btn-soft-primary.active {
-  box-shadow: 0 3px 12px rgba(39, 83, 255, 0.2);
+  box-shadow: 0 3px 12px #ffd230);
   transform: translateY(-4px);
 }
 
 .btn.btn-outline-primary {
-  border: 1px solid #2753ff !important;
+  border: 1px solid #03989E !important;
   color: #2753ff !important;
 }
 
