@@ -251,6 +251,96 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 27px;
 }
 
+/* Navigation Logo */
+img.logo-dark{
+box-sizing: border-box;
+position: inherit;
+width: 120px;
+height: 60px;
+left: 40px;
+top: 5px;
+background: url();
+border: 3px solid #000000;
+border-radius: 61px
+}
+
+#navigation {
+position:inherit;
+ color: #03989EDB !important;
+ text-decoration:solid !important;
+} 
+
+#Home:hover{
+    color: #03989EDB !important;
+}
+
+#Ourwhy:hover{
+    color: #03989EDB !important;
+}
+
+#TheHow:hover{
+    color: #03989EDB !important;
+}
+
+#ImpactSeries:hover{
+    color: #03989EDB !important;
+}
+
+
+#quote{
+    color: #03989EDB !important;
+}
+
+
+
+
+
+.page-header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    background-color: #03989EDB !important;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+ 
+}
+
+
+#header{
+border-radius: 61px
+}
+
+#navigation {
+position:inherit;
+ color: #03989EDB !important;
+ text-decoration:solid !important;
+} 
+
+#Home:hover{
+    color: #03989EDB !important;
+}
+
+#Ourwhy:hover{
+    color: #03989EDB !important;
+}
+
+#TheHow:hover{
+    color: #03989EDB !important;
+}
+
+#ImpactSeries:hover{
+    color: #03989EDB !important;
+}
+
+
+#quote{
+    color: #03989EDB !important;
+}
+
+
+
+
+
+
 /*---NAVBAR STICKY--*/
 .nav-sticky.navbar {
   margin-top: 0px;
@@ -366,6 +456,29 @@ h1, h2, h3, h4, h5, h6 {
 /* Headers */
 h1.font-weight-semibold.mb-4.hero-4-title{
   color: #ffffff !important;
+}
+
+p.mb-5.text-muted{
+  color: #03989E !important;
+}
+
+.btn.btn-lg.btn-soft-primary.me-2{
+  color:#03989e !important;
+}
+
+span.badge.badge-soft-primary.mb-4{
+  color:#ffffff !important;
+}
+
+div.bg-overlay-img{
+  background-color: #03989e !important;
+  height: fit-content;
+  width: fit-content;
+  
+}
+
+div.bg-overlay.bg-dark{
+  background-color: #03989e !important;
 }
 
 /* 
@@ -1638,7 +1751,7 @@ h1.font-weight-semibold.mb-4.hero-4-title{
 }
 
 .service-box .service-icon {
-  background-color: #eff1f5;
+  background-color: #03989E;
   border-radius: 30% 70% 70% 30% / 30% 50% 50% 30%;
 }
 
@@ -1679,6 +1792,10 @@ h1.font-weight-semibold.mb-4.hero-4-title{
   right: 0;
   bottom: -50px;
   opacity: 0.35;
+}
+
+img.img-fluid.d-block.mx-auto.rounded.shadow{
+  background-color: #03989E;
 }
 
 /* 
