@@ -1801,11 +1801,17 @@ img.img-fluid.d-block.mx-auto.rounded.shadow{
 
 /* Quiz section Book */
 
-section.section.bg-gradient-primary{
+section.section.bg-gradient{
   background-color: #03989E !important;
   color: #03989E;
 }
 
+a.btn.btn-lg{
+  background-color: #ffd230 !important;
+  border: 1px solid #fff!important;
+  color: #fff;
+  box-shadow: 0 4px 20px rgba(39, 83, 255, 0.15);
+}
 /* 
 // 11. Pricing
 */
