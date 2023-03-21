@@ -1798,6 +1798,14 @@ img.img-fluid.d-block.mx-auto.rounded.shadow{
   background-color: #03989E;
 }
 
+
+/* Quiz section Book */
+
+section.section.bg-gradient-primary{
+  background-color: #03989E !important;
+  color: #03989E;
+}
+
 /* 
 // 11. Pricing
 */
