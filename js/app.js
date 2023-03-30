@@ -1,7 +1,7 @@
-/* Template Name: Qexal - Responsive Bootstrap 4 Landing Page Template
-   Author: Themesbrand
+/* Template Name: Think Opal Javascript code
+   Author: Blackweb Solutions 
    Version: 1.0.0
-   Created: Jan 2019
+   Created: Feb 2023
    File Description: Main js file
 */
 
@@ -104,3 +104,27 @@ window.onload = function loader() {
     }, 350);
 } 
 
+// LOGO SLIDE SECTION
+
+$(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+});
