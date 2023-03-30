@@ -1812,9 +1812,11 @@ a.btn.btn-lg{
   color: #fff;
   box-shadow: 0 4px 20px rgba(39, 83, 255, 0.15);
 }
+
+
 /* 
 // 11. Pricing
-*/
+
 .pricing-tab .nav-pills {
   background-color: #f2f4f7;
   padding: 5px;
@@ -1839,7 +1841,11 @@ a.btn.btn-lg{
   position: absolute;
   top: 30px;
   right: -46px;
-}
+} 
+*/
+
+
+
 
 /* 
 // 12. Team
