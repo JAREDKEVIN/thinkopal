@@ -1975,7 +1975,28 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 /* SOLUTIONS */
 div.p-4{
   background-color: #03989E !important;
+  color:#ffd230 ;
 }
+
+/* IMPACT SERIES */
+
+span.badge.badge.badge-soft-primary{
+  color: #ffd230!important;
+}
+
+a{
+  color: white !important;
+}
+
+a:hover{
+  color: #ffd230 !important;
+}
+
+p.text-muted{
+  color: white !important;
+}
+
+
 
 /* 
 // 12. Team
@@ -2000,7 +2021,7 @@ div.p-4{
 }
 
 .team-social-icon:hover.h-primary {
-  color: #2753ff;
+  color: white;
 }
 
 .team-social-icon:hover.h-secondary {
