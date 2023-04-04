@@ -1985,15 +1985,15 @@ span.badge.badge.badge-soft-primary{
 }
 
 a{
-  color: white !important;
-}
-
-a:hover{
   color: #ffd230 !important;
 }
 
-p.text-muted{
+a:hover{
   color: white !important;
+}
+
+p.text-muted{
+  color: #000000 !important;
 }
 
 
