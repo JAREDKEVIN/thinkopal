@@ -2158,6 +2158,17 @@ img.img-fluid.d-block{
   background-color: #03989E;
 }
 
+
+a.social-icon.icon-mono.avatar-xs.rounded-circle{
+
+  background-color:#03989E !important;
+}
+
+a.social-icon.icon-mono.avatar-xs.rounded-circle:hover{
+
+  background-color:#03989E !important;
+}
+
 /* 
 // 13. Contact
 */
