@@ -432,7 +432,7 @@ position:inherit;
 
 /* Our Why */
 div#why.service-box-content.p-4{
-  background-color: whitesmoke !important;
+  background-color: #EFF1F559 !important;
   position: inherit;
 }
 
@@ -2247,4 +2247,18 @@ footer.footer{
   color: #fff;
   margin-left: 5px;
 }
+
+
+/* IMPACT SERIES PAGE  */
+
+
+
+/* 
+i.icon-xs{
+ 
+  /* background-color:#ffd230;
+  background-color: white !important;
+}
+ */
+
 /*# sourceMappingURL=style.css.map */
