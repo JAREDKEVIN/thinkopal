@@ -1080,7 +1080,9 @@ div.bg-overlay.bg-dark{
   cursor: pointer;
 }
 
-/*CARD FLIP SECTION  */
+
+
+/*CARD FLIP SECTION  
 
 .card {
   position: relative;
@@ -1125,7 +1127,7 @@ div.bg-overlay.bg-dark{
   transform: rotateY(0deg);
 }
 
-/* END OF CARD FLIP SECTION */
+ END OF CARD FLIP SECTION */
 
 /* 
 // 05.Helper
