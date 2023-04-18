@@ -1090,17 +1090,17 @@ div.bg-overlay.bg-dark{
   align-items: center !important;
   width: 200px;
   height: 250px;
-  margin: 20px;
-  margin-left: 100px !important;
-  border: 4px solid #03989E;
-  perspective: 1000px;
+  margin: 0px !important;
+  margin-left: 50px !important;
+  border: 2px solid #03989E !important;
+  perspective: 1000px;    
 }
 
 .front, .back {
   position: inherit;
   width: 100%;
   height: 100%;
-  backface-visibility: hidden;
+  backface-visibility:hidden !important;
   transition: transform 0.5s;
 }
 
@@ -1344,7 +1344,7 @@ div.bg-overlay.bg-dark{
 
 .play-icon-circle:hover {
   background-color: #fff;
-  color: #2753ff;
+  color: #03989E;
 }
 
 .play-icon-circle.play-icon-dark {
@@ -1503,7 +1503,7 @@ div.bg-overlay.bg-dark{
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(to top left, #56c6e6 0%, #2753ff 100%);
+  background: linear-gradient(to top left, #56c6e6 0%, #ffd230 100%);
   z-index: 9999999;
   transition: all 0.4s;
   visibility: visible;
@@ -2186,7 +2186,7 @@ border-radius: 4px;
   transition: all 0.2s ease-in;
   margin-top: 50px;
 }
-#cards_landscape_wrap-2 .card-flyer .text-box p{
+#s_landscape_wrap-2 .card-flyer .text-box p{
   margin-top: 10px;
   margin-bottom: 0px;
   padding-bottom: 0px; 
