@@ -17,7 +17,7 @@
 10.Pricing
 11.Team
 12.Contact
-13.Footer
+13.
 ***********************/
 /* 
 // variables.scss
@@ -2282,9 +2282,10 @@ footer.footer{
 
 .footer {
   padding-top: 60px;
-  padding-bottom: 20px;
-  position: relative;
-  background: #29344a;
+  padding-bottom: 0px !important;
+  position:absolute !important;
+  background: #03989E !important;
+  margin-left: 0vw !important;
 }
 
 .footer .footer-sub-menu li {
@@ -2300,6 +2301,7 @@ footer.footer{
   color: #fff;
   margin-left: 5px;
 }
+
 
 
 /* IMPACT SERIES PAGE  */
