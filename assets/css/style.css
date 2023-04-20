@@ -1083,7 +1083,7 @@ div.bg-overlay.bg-dark{
 
 
 
-/*CARD FLIP SECTION  
+/*CARD FLIP SECTION  */
 
 .card {
   display: inline-flex!important;
@@ -1134,7 +1134,7 @@ div.bg-overlay.bg-dark{
   transform: rotateY(0deg);
 }
 
- END OF CARD FLIP SECTION */
+ /* END OF CARD FLIP SECTION */
 
 /* 
 // 05.Helper
