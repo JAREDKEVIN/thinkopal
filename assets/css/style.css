@@ -264,7 +264,7 @@ margin-top: -100px;
 }
 
 #navigation {
-position:inherit;
+position:static !important;
  color: #03989EDB !important;
  text-decoration:solid !important;
 } 
@@ -274,6 +274,7 @@ position:inherit;
 }
 
 #Ourwhy:hover{
+
     color: #03989EDB !important;
 }
 
@@ -383,7 +384,7 @@ position:inherit;
 
 .navbar-light .nav-btn {
   background-color: #03989E;
-  color: #fff;
+  color: #ffd230;
 }
 
 @media (min-width: 200px) and (max-width: 991px) {
@@ -2264,6 +2265,8 @@ a.social-icon.icon-mono.avatar-xs.rounded-circle:hover{
 /* Footer Modified */
 footer.footer{
   background-color: #03989E;
+  
+  
 }
 /* 
 // 14. Footer
@@ -2280,13 +2283,14 @@ footer.footer{
   box-shadow: 0 0 0px 5px rgba(39, 83, 255, 0.12);
 }
 
-.footer {
+/* .footer {
   padding-top: 60px;
   padding-bottom: 0px !important;
   position:absolute !important;
   background: #03989E !important;
   margin-left: 0vw !important;
-}
+  margin-right: 0vw !important;
+} */
 
 .footer .footer-sub-menu li {
   margin: 14px 0;
@@ -2305,6 +2309,10 @@ footer.footer{
 
 
 /* IMPACT SERIES PAGE  */
+
+
+
+
 
 
 
